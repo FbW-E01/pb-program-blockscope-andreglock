@@ -22,7 +22,7 @@ if (determiner >= 0) {
 
 console.log('2:', updater);
 
-// A ternary has only two options and one line of code, an if statement can have multiple options when combined with 'else if'.
+// I prefer to use if statements instead of ternary, they do similar things but they are written in a different way. 
 
 // Example
 let y;
